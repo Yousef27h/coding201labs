@@ -4,6 +4,8 @@
 alert('Do you think the following statements are correct? \n Answer by typing (yes/y) or (no/n)');
 let score = 0;
 
+
+// First Question 
 function ocean1() {
   let ocean = prompt('The ocean is blue');
   if (ocean.toLowerCase() === 'yes' || ocean.toLowerCase() === 'y'){
@@ -16,6 +18,8 @@ function ocean1() {
 }
 ocean1();
 
+
+// Second Question
 function smart1() {
 
   let smart = prompt('I\'m smarter than you');
@@ -29,6 +33,8 @@ function smart1() {
 }
 smart1();
 
+
+// Third Question
 function location1() {
 
   let place = prompt('I live in Jordan');
@@ -42,6 +48,8 @@ function location1() {
 }
 location1();
 
+
+// Fourth Question
 function lang1(){
 
   let lang = prompt('I can speak English');
@@ -55,6 +63,9 @@ function lang1(){
 }
 lang1();
 
+
+
+// Fifth Question
 function prolang1() {
 
   let prolang = prompt('I created this webpage using HTML');
@@ -94,6 +105,8 @@ function prolang1() {
 }
 prolang1();
 
+
+// Sixth Question : Guess one of my Drinks
 function myDrinks1(){
 
 
