@@ -5,4 +5,6 @@ My name is *Yousef Salem*, I have a bachelors degree in Mechanical engineering. 
 This repository, contains my project work throughout labs during *code201* course.
 In this repository I mainly used HTML, CSS, and JavaScript to complete my labs
 
+In this project I worked with Mohammad Alswaiti, As he was the Driver and I was the Navigator.
+
 **MIT ©** Yousef Salem

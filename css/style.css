@@ -1,28 +1,62 @@
 h1 {
-  font-family:cursive ;
+  font-family: 'Dancing Script', cursive;
   text-align: center;
-  color: #8338ec;
-  background-color:#cbc0d3 ;
-  border-style:double;
-  border: #014349;
+  font-size: 55px;
+  color: #011d2c;
+  margin: auto;
+  background: url(../img/colorful-watercolor-brush-stroke-banner-2-29.png);
+  background-repeat: no-repeat;
+  background-position: center;
+
+}
+main h2{
+  font-family: 'Parisienne', cursive;
+  text-align: center;
+  font-size: 55px;
+
+  color: #f77f00;
+  border-bottom-style: dashed;
+  margin: auto;
+  width: 40%;
+}
+footer h2{
+  font-family: 'Open Sans', sans-serif;
+  color: #d62828;
+  text-align: center;
 }
 
 body{
-  background-color: #dee2ff;
+  background-color: #011d2c;
 }
 div{
+  font-family: 'Dancing Script', cursive;
   font-size: 50px;
-  font-family: cursive;
   text-align: center;
-  color: #ec38e3;
+  color: #0890b9;
   
 }
-p{
-  font-family:Georgia, 'Times New Roman', Times, serif;
-  text-align: center;
-  color: #014349;
+span{
+  /* font-family: 'Great Vibes', cursive; */
+  font-family: 'Parisienne', cursive;
+  font-size: 180%;
 }
-ul{
-  font-family:Georgia, 'Times New Roman', Times, serif;
-  color: #014349;
+p{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 130%;
+  text-align: center;
+  color: #f77f00;
+}
+ul,ol{
+  font-family:'Open Sans', sans-serif;
+  color: #fcbf49;
+  font-size: 110%;
+  text-align: center;
+  list-style-position: inside;
+}
+i{
+  color: antiquewhite;
+}
+footer a{
+  color:burlywood;
+  text-decoration: none;
 }
